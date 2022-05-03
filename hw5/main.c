@@ -2,8 +2,8 @@
 
 typedef struct my_mm
 {
-    int xy[10];
-    int* xy_p[10];
+    int nm[10];
+    int* nm_p[10];
     int count;
 }my_mm_t;
 
